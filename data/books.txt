@@ -1,1 +1,5 @@
-
+101,Java Programming,James Gosling,Programming,9780135166307,10,8
+102,Python Crash Course,Eric Matthes,Programming,9781593279288,7,7
+103,Clean Code,Robert C. Martin,Software Engineering,9780132350884,5,4
+104,Data Structures and Algorithms,Narasimha Karumanchi,DSA,9788193245279,6,6
+105,Operating System Concepts,Abraham Silberschatz,Operating System,9781119456339,4,3
